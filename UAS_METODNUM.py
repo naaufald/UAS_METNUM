@@ -26,7 +26,7 @@ st.markdown(
 st.title("Differential Equation: Runge-Kutta Method for Simulation")
 st.header("Flowchart")
 
-st.image(r"D:/Matana/Semester 4/Metode Numerik/UAS/Flowchart.jpg", caption="Diagram Flowchart")
+st.image("https://raw.githubusercontent.com/naaufald/UAS_METNUM/main/Flowchart.jpg", caption="Diagram Flowchart")
 
 
 st.header("Runge-Kutta Method for Temperature Simulation")
